@@ -1,0 +1,53 @@
+.menu {
+	color: white;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 41px;
+	text-transform: uppercase;
+}
+.title-top {
+	color: white;
+	font-family: DroidSerif;
+	font-size: 40px;
+	font-style: italic;
+}
+.title-main {
+	color: white;
+	font-family: Montserrat;
+	font-size: 75px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.title-all {
+	color: #222;
+	font-family: Montserrat;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 75px;
+	text-transform: uppercase;
+}
+.text {
+	color: #777;
+	font-family: RobotoSlab;
+	font-size: 14px;
+	font-weight: 400;
+}
+.under-title-text {
+	color: #777;
+	font-family: DroidSerif;
+	font-size: 16px;
+	font-style: italic;
+}
+.img-title {
+	color: #333;
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+}
+.img-title-text {
+	color: #737373;
+	font-family: DroidSerif;
+	font-size: 14px;
+	font-style: italic;
+}
