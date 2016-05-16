@@ -1,9 +1,9 @@
 .clearfix:after {
-			content: '';
-			clear: both;
-			display: table;
-			overflow: hidden;
-		}
+	content: '';
+	clear: both;
+	display: table;
+	overflow: hidden;
+}
 .menu {
 	color: white;
 	font-family: Montserrat;
@@ -17,6 +17,7 @@
 	font-family: DroidSerif;
 	font-size: 40px;
 	font-style: italic;
+
 }
 .title-main {
 	color: white;
@@ -24,6 +25,7 @@
 	font-size: 75px;
 	font-weight: 700;
 	text-transform: uppercase;
+	margin:50px 0 60px;
 }
 .title-all {
 	color: #222;
@@ -32,6 +34,7 @@
 	font-weight: 700;
 	line-height: 75px;
 	text-transform: uppercase;
+	padding-top:90px;
 }
 .text {
 	color: #777;

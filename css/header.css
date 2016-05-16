@@ -1,0 +1,49 @@
+.header{
+	background-image: url("../pic/header.jpg");
+	height:700px;
+	background-repeat: no-repeat;
+	display:block;
+}
+.wrap{
+	width: 940px;
+	margin:0 auto;
+	text-align: center;
+}
+.header-top{
+	padding-top:44px;
+}
+
+.logo{
+	float:left;
+	line-height: 41px;
+}
+
+.menu{
+	float:right;
+}
+
+.menu-item{
+	padding:0 20px;
+}
+
+.menu .title-top{
+	margin-top:270px;
+	display:block;
+}
+
+.header-title{
+	margin-top: 270px;
+}
+
+.button{
+	background-color:#fed136;
+	width: 240px;
+	height: 65px;
+	display: inline-block;
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight:400;
+	color:white;
+	text-transform:uppercase;
+	line-height: 65px;
+}
