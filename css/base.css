@@ -1,3 +1,9 @@
+.clearfix:after {
+			content: '';
+			clear: both;
+			display: table;
+			overflow: hidden;
+		}
 .menu {
 	color: white;
 	font-family: Montserrat;
