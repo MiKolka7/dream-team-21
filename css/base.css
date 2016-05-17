@@ -50,10 +50,12 @@
 	font-family: Montserrat;
 	font-size: 18px;
 	font-weight: 700;
+	margin-bottom: 4px;
 }
 .img-title-text {
 	color: #737373;
 	font-family: DroidSerif;
 	font-size: 14px;
 	font-style: italic;
+	margin-bottom: 27px;
 }

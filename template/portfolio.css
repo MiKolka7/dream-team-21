@@ -10,12 +10,17 @@
 .portfolio-foto {
 	text-align: center;
 	display: block;
-	width: 940px;
+	width: 960px;
 	margin: 0 auto;
+	padding-bottom: 120px;
 }
 .portfolio-foto-item {
 	width: 290px;
 	display: inline-block;
 	background-color: white;
 	text-align: center;
+	margin: 0 1.4% 50px;
+}
+.portfolio-foto-item img {
+	margin-bottom: 29px;
 }
