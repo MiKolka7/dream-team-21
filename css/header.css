@@ -35,6 +35,14 @@
 	margin-top: 270px;
 }
 
+h1.title-main{
+	margin:50px 0 60px;
+}
+
+h2.title-all{
+	padding-top:90px;
+}
+
 .button{
 	background-color:#fed136;
 	width: 240px;

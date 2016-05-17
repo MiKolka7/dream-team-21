@@ -25,7 +25,7 @@
 	font-size: 75px;
 	font-weight: 700;
 	text-transform: uppercase;
-	margin:50px 0 60px;
+
 }
 .title-all {
 	color: #222;
@@ -34,7 +34,6 @@
 	font-weight: 700;
 	line-height: 75px;
 	text-transform: uppercase;
-	padding-top:90px;
 }
 .text {
 	color: #777;
