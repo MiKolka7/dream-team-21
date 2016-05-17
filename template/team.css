@@ -16,4 +16,12 @@
 .team-item-block {
 	display: inline-block;
 	text-align: center;
+	margin: 0 23px;
+}
+.circle {
+	width: 234px;
+	height: 234px;
+	background-color: #111;
+	border: 7px solid white;
+	border-radius: 50%;
 }
