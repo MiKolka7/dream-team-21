@@ -4,3 +4,16 @@
 	text-align: center;
 	padding-top: 119px;
 }
+.under-title-text {
+	padding-bottom: 76px;
+}
+.team-item {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	font-size: 0px;
+}
+.team-item-block {
+	display: inline-block;
+	text-align: center;
+}
