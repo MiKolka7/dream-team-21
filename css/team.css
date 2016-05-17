@@ -8,8 +8,6 @@
 	padding-bottom: 76px;
 }
 .team-item {
-	text-align: center;
-	display: block;
 	margin: 0 auto;
 	font-size: 0px;
 }
@@ -47,3 +45,9 @@
 .icons img {
 	vertical-align: middle;
 }
+.team-footer {
+	text-align: center;
+}
+.team-footer img {
+	margin: 60px 20px 62px;
+}	
