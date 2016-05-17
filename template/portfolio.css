@@ -7,3 +7,15 @@
 .under-title-text {
 	padding-bottom: 76px;
 }
+.portfolio-foto {
+	text-align: center;
+	display: block;
+	width: 940px;
+	margin: 0 auto;
+}
+.portfolio-foto-item {
+	width: 290px;
+	display: inline-block;
+	background-color: white;
+	text-align: center;
+}
