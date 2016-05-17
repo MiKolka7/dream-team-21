@@ -44,3 +44,7 @@
 	margin: 0 auto;
 	padding-bottom: 117px;
 }
+.team-footer-text img {
+	top: 0;
+	bottom: 0;
+}
