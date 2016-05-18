@@ -31,6 +31,9 @@ h2.title-all-white  {
 	text-transform: uppercase;
 	padding-left: 21px;
 }
+.forma-left:last-child {
+	margin-bottom: 0;
+}
 .forma-right {
 	width: 436px;
 	height: 211px;
@@ -43,7 +46,8 @@ h2.title-all-white  {
 	font-weight: 700;
 	text-transform: uppercase;
 	padding-left: 21px;
-	vertical-align: top;
+	padding-top: 20px; 
+	box-sizing: border-box;
 }
 .left {
 	float: left;
@@ -60,7 +64,6 @@ h2.title-all-white  {
 	border-radius: 2px;
 	margin: 0 auto;
 	text-align: center;
-	
 }
 .button a {
 	color: white;
@@ -70,7 +73,7 @@ h2.title-all-white  {
 	text-transform: uppercase;
 	display: inline-block;
 	width: 100%;
-	line-height: 55px;
+	line-height: 65px;
 }
 .button:hover{
 	background-color: #ebb023;
@@ -80,6 +83,4 @@ h2.title-all-white  {
 	bottom: -90px;
 	right: 0;
 	opacity: 0.3;
-	
-	
 }
