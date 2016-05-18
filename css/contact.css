@@ -71,3 +71,21 @@ h2.title-all-white  {
 	text-transform: uppercase;
 	padding-left: 21px;
 }
+.placeholder-2 {
+	color: #bbb;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-left: 21px;
+	vertical-align: top;
+	
+}
+.map {
+	position: absolute;
+	bottom: -90px;
+	right: 0;
+	opacity: 0.3;
+	
+	
+}
