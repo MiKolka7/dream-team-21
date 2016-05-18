@@ -19,7 +19,7 @@ h2.title-all-white  {
 	padding-bottom: 25px;
 }
 .forma-left {
-	width: 457px;
+	width: 436px;
 	height: 52px;
 	background-color: white;
 	border: 1px solid #ccc;
@@ -27,7 +27,7 @@ h2.title-all-white  {
 	margin-bottom: 26px;
 }
 .forma-right {
-	width: 457px;
+	width: 436px;
 	height: 211px;
 	background-color: white;
 	border: 1px solid #ccc;
@@ -62,4 +62,12 @@ h2.title-all-white  {
 }
 .button:hover{
 	background-color: #ebb023;
+}
+.placeholder {
+	color: #bbb;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-left: 21px;
 }
