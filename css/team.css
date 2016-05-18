@@ -47,8 +47,10 @@
 }
 .team-footer {
 	text-align: center;
+	margin-top: 60px;
+	width: 100%;
+	background-color: white;
 }
 .team-footer img {
-	margin: 60px 20px 0;
-	padding-bottom: 62px;
+	margin: 0 20px 0;
 }	
