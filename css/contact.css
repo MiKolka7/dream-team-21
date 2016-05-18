@@ -4,6 +4,7 @@
 	text-align: center;
 	padding-top: 110px;
 	margin-top: 60px;
+	padding-bottom: 115px;
 	position: relative;
 }
 h2.title-all-white  {
@@ -47,7 +48,7 @@ h2.title-all-white  {
 	border-radius: 2px;
 	margin: 0 auto;
 	text-align: center;
-	line-height: 65px;
+	
 }
 .button a {
 	color: white;
@@ -57,6 +58,7 @@ h2.title-all-white  {
 	text-transform: uppercase;
 	display: inline-block;
 	width: 100%;
+	line-height: 55px;
 }
 .button:hover{
 	background-color: #ebb023;
