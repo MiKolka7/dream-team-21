@@ -1,0 +1,73 @@
+.contact {
+	background-color: #222;
+	width: 100%;
+	text-align: center;
+	padding-top: 110px;
+	margin-top: 60px;
+	padding-bottom: 115px;
+	position: relative;
+}
+h2.title-all-white  {
+	color: white;
+}
+.forma {
+	/*float: left;*/
+	width: 950px;
+	height: 211px;
+	margin: 0 auto;
+	padding-top: 75px;
+	padding-bottom: 25px;
+}
+.forma-left {
+	width: 436px;
+	height: 52px;
+	background-color: white;
+	border: 1px solid #ccc;
+	border-radius: 1px;
+	margin-bottom: 26px;
+}
+.forma-right {
+	width: 436px;
+	height: 211px;
+	background-color: white;
+	border: 1px solid #ccc;
+	border-radius: 1px;
+}
+.left {
+	float: left;
+	width: 457px;
+}
+.right {
+	float: right;
+	width: 457px;
+}
+.button {
+	width: 240px;
+	height: 65px;
+	background-color: #fed136;
+	border-radius: 2px;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+.button a {
+	color: white;
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	display: inline-block;
+	width: 100%;
+	line-height: 55px;
+}
+.button:hover{
+	background-color: #ebb023;
+}
+.placeholder {
+	color: #bbb;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-left: 21px;
+}

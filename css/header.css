@@ -1,0 +1,114 @@
+.header{
+	background-image: url("../pic/header.jpg");
+	height:700px;
+	background-repeat: no-repeat;
+	display:block;
+	background-size: 100%;
+	background-position: bottom center;
+}
+.wrap{
+	width: 940px;
+	margin:0 auto;
+	text-align: center;
+}
+.header-top{
+	padding-top:44px;
+}
+
+.logo{
+	float:left;
+	line-height: 41px;
+}
+
+.menu{
+	float:right;
+}
+
+.menu-item{
+	padding:0 20px;
+}
+
+.menu .title-top{
+	margin-top:270px;
+	display:block;
+}
+
+.header-title{
+	margin-top: 270px;
+}
+
+h1.title-main{
+	margin:50px 0 60px;
+}
+
+h2.title-all{
+	padding-top:90px;
+}
+
+.button{
+	background-color:#fed136;
+	width: 240px;
+	height: 65px;
+	display: inline-block;
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight:400;
+	color:white;
+	text-transform:uppercase;
+	line-height: 65px;
+	border-radius: 2px;
+	transition: background-color .28s;
+}
+
+.button:hover{
+	background-color: #ebb023;
+}
+
+.button a{
+	display: inline-block;
+	width: 100%;
+}
+
+.aboutus-list{
+	margin-top: 82px;
+}
+
+.row{
+	padding-bottom: 90px;
+}
+
+.row-text{
+	width: 33.33%;
+	float: left;
+}
+
+.aboutus-img{
+	width: 33.33%;
+	float: left;
+	padding:0 40px;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+.empty{
+	width: 33.33%;
+	float: left;
+}
+
+.img-wrap{
+	border-radius:50%;
+	background-color: #f1f1f1;
+	width: 182px;
+	height: 182px;
+	margin: 0 auto;
+}
+
+.aboutus .text{
+	text-align: right;
+	line-height: 1.5;
+}
+
+.aboutus .row:nth-child(2n) .text{
+	text-align: left;
+}
