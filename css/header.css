@@ -3,6 +3,8 @@
 	height:700px;
 	background-repeat: no-repeat;
 	display:block;
+	background-size: 100%;
+	background-position: bottom center;
 }
 .wrap{
 	width: 940px;
