@@ -112,3 +112,31 @@ h2.title-all{
 .aboutus .row:nth-child(2n) .text{
 	text-align: left;
 }
+
+.aboutus_title{
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight:700;
+	text-transform: uppercase;
+	color:#222;
+	text-align: right;
+	line-height: 1.5;
+}
+
+
+.aboutus_title_small{
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight:700;
+	color:#222;
+	text-align: right;
+	line-height: 1.5;
+}
+
+.aboutus .row:nth-child(2n) .aboutus_title_small{
+	text-align: left;
+}
+
+.aboutus .row:nth-child(2n) .aboutus_title{
+	text-align: left;
+}
