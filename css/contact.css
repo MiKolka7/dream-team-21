@@ -11,7 +11,6 @@ h2.title-all-white  {
 	color: white;
 }
 .forma {
-	/*float: left;*/
 	width: 950px;
 	height: 211px;
 	margin: 0 auto;
@@ -25,6 +24,12 @@ h2.title-all-white  {
 	border: 1px solid #ccc;
 	border-radius: 1px;
 	margin-bottom: 26px;
+	color: #bbb;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-left: 21px;
 }
 .forma-right {
 	width: 436px;
@@ -32,6 +37,13 @@ h2.title-all-white  {
 	background-color: white;
 	border: 1px solid #ccc;
 	border-radius: 1px;
+	color: #bbb;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-left: 21px;
+	vertical-align: top;
 }
 .left {
 	float: left;
@@ -63,11 +75,11 @@ h2.title-all-white  {
 .button:hover{
 	background-color: #ebb023;
 }
-.placeholder {
-	color: #bbb;
-	font-family: Montserrat;
-	font-size: 14px;
-	font-weight: 700;
-	text-transform: uppercase;
-	padding-left: 21px;
+.map {
+	position: absolute;
+	bottom: -90px;
+	right: 0;
+	opacity: 0.3;
+	
+	
 }
