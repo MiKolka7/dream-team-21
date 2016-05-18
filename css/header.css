@@ -104,6 +104,10 @@ h2.title-all{
 	margin: 0 auto;
 }
 
+.aboutus {
+	padding-bottom: 30px;
+}
+
 .aboutus .text{
 	text-align: right;
 	line-height: 1.5;
@@ -139,4 +143,34 @@ h2.title-all{
 
 .aboutus .row:nth-child(2n) .aboutus_title{
 	text-align: left;
+}
+
+.circle{
+	background-color: #fed136;
+	border-radius:50%;
+	border:solid 7px #f1f1f1;
+	width: 182px;
+	height: 182px;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	margin:0 auto;
+	font-size: 18px;
+	font-family: Montserrat;
+	font-weight:700;
+	color:#fff;
+	text-transform:uppercase;
+	line-height: 1.5;
+}
+
+.circle::after{
+	content:"";
+	display: inline-block;
+	vertical-align: middle;
+	height: 100%;
+}
+
+.circle span{
+	display: inline-block;
+	vertical-align: middle;
 }
