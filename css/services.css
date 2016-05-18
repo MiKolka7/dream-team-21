@@ -1,8 +1,8 @@
 .clearfix:after {
-			content: '';
-			clear: both;
-			display: table;
-			overflow: hidden;
+	content: '';
+	clear: both;
+	display: table;
+	overflow: hidden;
 		}
 .services {
 	width: 100%;
@@ -28,11 +28,11 @@
 	font-style: italic;
 }
 .under-title-text {
-	padding: 19px 0px 0px 0px;
+	padding: 0px;
 }
 .proin {
 	width: 100%;
-	height: 205px;
+	height: 305px;
 	margin: 0 auto;
 }
 .proin1 {
@@ -47,19 +47,17 @@
 	float: left;
 	width: 274px;
 }
-.com {
-	color: #222;
-	font-family: Montserrat;
-	font-size: 18px;
-	font-weight: 700;
-	line-height: 75px;
-	margin: 0;
-}
-.com p {
-	padding: 18px 0px 0px 0px;
-}
 .center {
 	width: 825px;
 	margin: 0 auto;
-	padding: 97px 0px 0px 0px;
+	padding: 77px 0px 0px 0px;
+}
+.proin1 h3 {
+	padding: 26px 0px 18px 0px;
+}
+.proin2 h3 {
+	padding: 26px 0px 18px 0px;
+}
+.proin3 h3 {
+	padding: 26px 0px 18px 0px;
 }
