@@ -11,6 +11,7 @@
 	margin:0 auto;
 	text-align: center;
 }
+
 .header-top{
 	padding-top:44px;
 }
@@ -156,7 +157,26 @@ h1.title-main{
 .aboutus {
 	padding-bottom: 30px;
 	padding-top: 120px;
+	text-align: center;
 }
+
+.aboutus .wrap{
+	position:relative;
+}
+
+.aboutus .wrap::after{
+	content:"";
+	background-color:#f1f1f1;
+	left: 50%;
+	margin-left: -1px;
+	width:2px;
+	z-index: -1;
+	display: block;
+	position: absolute;
+	top:0;
+	bottom:90px;
+}
+
 .aboutus .text{
 	text-align: right;
 	line-height: 1.5;
