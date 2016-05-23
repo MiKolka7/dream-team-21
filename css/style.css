@@ -25,6 +25,10 @@
 .menu-item{
 	padding:0 20px;
 }
+
+.menu-item:hover {
+	border-bottom: 1px solid #fff;
+} 
 .menu .title-top{
 	margin-top:270px;
 	display:block;
@@ -63,7 +67,7 @@ h1.title-main{
 	padding-bottom: 118px;
 }
 .services .title-all {
-	padding: 120px 0px 0px 0px;
+	padding: 105px 0px 0px 0px;
 }
 .proin {
 	width: 100%;
@@ -102,7 +106,7 @@ h1.title-main{
 	width: 100%;
 	background-color: #f7f7f7;
 	text-align: center;
-	padding-top: 120px;
+	padding-top: 105px;
 }
 .under-title-text {
 	padding-bottom: 76px;
@@ -156,7 +160,7 @@ h1.title-main{
 }
 .aboutus {
 	padding-bottom: 30px;
-	padding-top: 120px;
+	padding-top: 105px;
 	text-align: center;
 }
 
@@ -238,7 +242,7 @@ h1.title-main{
 	width: 100%;
 	background-color: #f9f9f9;
 	text-align: center;
-	padding-top: 119px;
+	padding-top: 105px;
 }
 .under-title-text-team {
 	padding-bottom: 76px;
@@ -298,7 +302,7 @@ h1.title-main{
 	width: 100%;
 	text-align: center;
 	padding-top: 110px;
-	padding-bottom: 115px;
+	padding-bottom: 95px;
 	position: relative;
 }
 h2.title-all-white  {
