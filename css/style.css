@@ -52,7 +52,7 @@ h1.title-main{
 	line-height: 65px;
 	border-radius: 2px;
 	transition: background-color .28s;
-	margin-bottom: 100px;
+	/*margin-bottom: 100px;*/
 }
 .button:hover{
 	background-color: #ebb023;
@@ -301,8 +301,8 @@ h1.title-main{
 	background-position: right bottom -90px;
 	width: 100%;
 	text-align: center;
-	padding-top: 110px;
-	padding-bottom: 95px;
+	padding-top: 105px;
+	padding-bottom: 115px;
 	position: relative;
 }
 h2.title-all-white  {
@@ -310,10 +310,7 @@ h2.title-all-white  {
 }
 .forma {
 	width: 950px;
-	height: 211px;
 	margin: 0 auto;
-	padding-top: 75px;
-	padding-bottom: 25px;
 }
 .forma-left {
 	width: 436px;
@@ -334,7 +331,7 @@ h2.title-all-white  {
 }
 .forma-right {
 	width: 436px;
-	height: 211px;
+	height: 214px;
 	background-color: white;
 	border: 1px solid #ccc;
 	border-radius: 1px;
@@ -350,32 +347,17 @@ h2.title-all-white  {
 .left {
 	float: left;
 	width: 457px;
+	padding-bottom: 30px;
 }
 .right {
 	float: right;
 	width: 457px;
+	padding-bottom: 30px;
 }
-.button {
-	width: 240px;
-	height: 65px;
-	background-color: #fed136;
-	border-radius: 2px;
-	margin: 0 auto;
-	text-align: center;
+.clear {
+	clear: both;
 }
-.button a {
-	color: white;
-	font-family: Montserrat;
-	font-size: 18px;
-	font-weight: 700;
-	text-transform: uppercase;
-	display: inline-block;
-	width: 100%;
-	line-height: 65px;
-}
-.button:hover{
-	background-color: #ebb023;
-}
+
 .map {
 	position: absolute;
 	bottom: -90px;
@@ -418,3 +400,5 @@ h2.title-all-white  {
 	float: left;
 	margin-right: 10px;
 }
+
+
