@@ -114,7 +114,7 @@ h1.title-main{
 .portfolio-foto {
 	text-align: center;
 	display: block;
-	width: 67.15%;
+	width: 1008px;
 	margin: 0 auto;
 	padding-bottom: 120px;
 	font-size: 0px;
@@ -124,7 +124,7 @@ h1.title-main{
 	display: inline-block;
 	background-color: white;
 	text-align: center;
-	margin: 0 1.5% 50px;
+	margin: 0 23px 50px;
 }
 .portfolio-foto-item img {
 	margin-bottom: 29px;
