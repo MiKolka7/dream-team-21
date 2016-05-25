@@ -147,10 +147,7 @@ h1.title-main{
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.empty{
-	width: 33.33%;
-	float: left;
-}
+
 .img-wrap{
 	border-radius:50%;
 	background-color: #f1f1f1;
@@ -211,6 +208,11 @@ h1.title-main{
 .aboutus .row:nth-child(2n) .aboutus_title{
 	text-align: left;
 }
+
+.aboutus .row:nth-child(2n) > div{
+	float:right;
+}
+
 .circle{
 	background-color: #fed136;
 	border-radius:50%;
