@@ -114,7 +114,7 @@ h1.title-main{
 .portfolio-foto {
 	text-align: center;
 	display: block;
-	width: 69.6%;
+	width: 67.15%;
 	margin: 0 auto;
 	padding-bottom: 120px;
 	font-size: 0px;
@@ -124,7 +124,7 @@ h1.title-main{
 	display: inline-block;
 	background-color: white;
 	text-align: center;
-	margin: 0 1.2% 50px;
+	margin: 0 1.5% 50px;
 }
 .portfolio-foto-item img {
 	margin-bottom: 29px;
@@ -147,7 +147,10 @@ h1.title-main{
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
+.empty{
+	width: 33.33%;
+	float: left;
+}
 .img-wrap{
 	border-radius:50%;
 	background-color: #f1f1f1;
@@ -208,11 +211,6 @@ h1.title-main{
 .aboutus .row:nth-child(2n) .aboutus_title{
 	text-align: left;
 }
-
-.aboutus .row:nth-child(2n) > div{
-	float:right;
-}
-
 .circle{
 	background-color: #fed136;
 	border-radius:50%;
@@ -246,10 +244,6 @@ h1.title-main{
 	text-align: center;
 	padding-top: 105px;
 }
-.container {
-	width: 67.14%;
-	margin: 0 auto;
-}
 .under-title-text-team {
 	padding-bottom: 76px;
 }
@@ -261,8 +255,6 @@ h1.title-main{
 	display: inline-block;
 	text-align: center;
 	margin: 0 23px;
-	width: 234px;
-	vertical-align: top;
 }
 .circle-team {
 	width: 234px;
@@ -270,7 +262,6 @@ h1.title-main{
 	background-color: #111;
 	border: 7px solid white;
 	border-radius: 50%;
-	box-sizing: border-box;
 }
 .team-footer-text {
 	color: #777;
@@ -334,14 +325,13 @@ h2.title-all-white  {
 	font-weight: 700;
 	text-transform: uppercase;
 	padding-left: 21px;
-	box-sizing: border-box;
 }
 .forma-left:last-child {
 	margin-bottom: 0;
 }
 .forma-right {
 	width: 100%;
-	height: 209px;
+	height: 213px;
 	background-color: white;
 	border: 1px solid #ccc;
 	border-radius: 1px;
@@ -356,12 +346,12 @@ h2.title-all-white  {
 }
 .left {
 	float: left;
-	width: 48.5%;
+	width: 47%;
 	padding-bottom: 30px;
 }
 .right {
 	float: right;
-	width: 48.5%;
+	width: 48%;
 	padding-bottom: 30px;
 }
 .clear {
