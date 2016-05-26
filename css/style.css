@@ -113,9 +113,9 @@ h1.title-main{
 }
 .portfolio-foto {
 	text-align: center;
-	display: block;
-	width: 69.6%;
-	margin: 0 auto;
+	display: inline-block;
+	width: 974px;
+	margin: 0 -17px;
 	padding-bottom: 120px;
 	font-size: 0px;
 }
@@ -124,7 +124,7 @@ h1.title-main{
 	display: inline-block;
 	background-color: white;
 	text-align: center;
-	margin: 0 1.2% 50px;
+	margin: 0 17px 50px;
 }
 .portfolio-foto-item img {
 	margin-bottom: 29px;
@@ -247,8 +247,8 @@ h1.title-main{
 	padding-top: 105px;
 }
 .container {
-	width: 67.14%;
-	margin: 0 auto;
+	/*width: 940px;*/
+	/*margin: 0 auto;*/
 }
 .under-title-text-team {
 	padding-bottom: 76px;
@@ -289,19 +289,65 @@ h1.title-main{
 	display: inline-block;
 	border-radius: 50%;
 	margin: 14px 5px 51px;
-	line-height: 40px;
+	line-height: 34px;
+	box-sizing: border-box;
 }
-.icons img {
-	vertical-align: middle;
+.twitter {
+	background-image: url("../pic/twitter.png");
+}
+.twitter:hover {
+	background-color: #00aced;
+	background-image: url("../pic/twitter2.png");
+}
+.facebook {
+	background-image: url("../pic/facebook.png");
+}
+.facebook:hover {
+	background-color: #3b5998;
+	background-image: url("../pic/facebook2.png");
+}
+.pinterest {
+	background-image: url("../pic/pinterest.png");
+}
+.pinterest:hover {
+	background-color: #cb2028;
+	background-image: url("../pic/pinterest2.png");
+}
+.google {
+	background-image: url("../pic/google.png");
+}
+.google:hover {
+	background-color: #d95232;
+	background-image: url("../pic/google2.png");
+}
+.icons  {
+	width: 40px;
+	height: 40px;
+	background-color: #f9f9f9;
+	border: 3px solid #222;
+	display: inline-block;
+	border-radius: 50%;
+	margin: 14px 5px 51px;
+	box-sizing: border-box;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.icons:hover {
+	width: 40px;
+	height: 40px;
+	border: none;
+	display: inline-block;
+	border-radius: 50%;
+	margin: 14px 5px 51px;
 }
 .team-footer {
 	text-align: center;
-	/*margin-top: 60px;*/
+	padding: 40px 0;
 	width: 100%;
 	background-color: white;
 }
 .team-footer img {
-	margin: 60px 20px 60px;
+	margin: 20px 20px 20px;
 }
 .contact {
 	background-color: #222;
@@ -318,7 +364,7 @@ h2.title-all-white  {
 	color: white;
 }
 .forma {
-	width: 67.14%;
+	width: 940px;
 	margin: 0 auto;
 }
 .forma-left {
