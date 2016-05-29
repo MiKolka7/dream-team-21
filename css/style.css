@@ -149,12 +149,11 @@ h1.title-main{
 }
 
 .img-wrap{
-	border-radius:50%;
-	background-color: #f1f1f1;
 	width: 182px;
-	height: 182px;
 	margin: 0 auto;
+	position: relative;
 }
+
 .aboutus {
 	padding-bottom: 30px;
 	padding-top: 105px;
