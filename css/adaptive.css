@@ -1,4 +1,7 @@
 @media screen and (max-width:768px){
+	.wrap{
+		width: 690px;
+	}
 	.row-text {
 		width:60%;
 	}
