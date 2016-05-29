@@ -1,10 +1,26 @@
 @media screen and (max-width:768px){
+
+	.header{
+		padding-bottom: 60px;
+	}
+
 	.wrap{
 		width: 690px;
+	}
+
+	.header-title{
+		margin-top: 80px;
+	}
+	
+	 h1.title-main{
+		font-size:50px;
+		margin: 30px 0 50px;
 	}
 	.row-text {
 		width:60%;
 	}
+
+
 
 	.aboutus-img{
 		width:40%;
@@ -25,6 +41,28 @@
 
 @media screen and (max-width:480px)
 {
+
+	.wrap{
+		width: 420px;
+	}
+	
+	.menu{
+		display:none;
+	}
+
+	h1.title-main{
+		font-size:30px;
+		margin: 30px 0 50px;
+	}
+
+	.header .title-top{
+		font-size: 30px;
+	}
+
+	.header .button{
+		width: 180px;
+		height: 50px;
+	}
 
 	.row-text {
 		width:50%;
