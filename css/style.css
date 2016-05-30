@@ -7,9 +7,10 @@
 	padding-bottom: 160px;
 }
 .wrap{
-	width: 940px;
+	max-width: 940px;
 	margin:0 auto;
 	text-align: center;
+	font-size: 0;
 }
 
 .header-top{
@@ -103,28 +104,24 @@ h1.title-main{
 	padding: 26px 0px 18px 0px;
 }
 .portfolio {
-	width: 100%;
 	background-color: #f7f7f7;
 	text-align: center;
 	padding-top: 105px;
+	padding-bottom: 70px;
 }
 .under-title-text {
 	padding-bottom: 76px;
-}
-.portfolio-foto {
-	text-align: center;
-	display: inline-block;
-	width: 974px;
-	margin: 0 -17px;
-	padding-bottom: 120px;
-	font-size: 0px;
 }
 .portfolio-foto-item {
 	width: 290px;
 	display: inline-block;
 	background-color: white;
 	text-align: center;
-	margin: 0 17px 50px;
+	margin-bottom: 50px;
+	margin-right: 35px;
+}
+.portfolio-foto-item:nth-child(3n) {
+	margin-right: 0px;
 }
 .portfolio-foto-item img {
 	margin-bottom: 29px;
