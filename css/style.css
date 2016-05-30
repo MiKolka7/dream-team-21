@@ -339,7 +339,6 @@ h1.title-main{
 	background-image: url("../pic/map-image.png");
 	background-repeat: no-repeat;
 	background-position: right bottom -90px;
-	width: 100%;
 	text-align: center;
 	padding-top: 105px;
 	padding-bottom: 115px;
@@ -347,10 +346,6 @@ h1.title-main{
 }
 h2.title-all-white  {
 	color: white;
-}
-.forma {
-	width: 940px;
-	margin: 0 auto;
 }
 .forma-left {
 	width: 100%;
