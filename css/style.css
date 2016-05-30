@@ -71,6 +71,7 @@ h1.title-main{
 	width: 274px;
 	display: inline-block;
 	margin-right: 56px;
+	vertical-align: top;
 }
 .proin:nth-last-child(1) {
 	margin-right: 0;
