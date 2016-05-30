@@ -1,4 +1,4 @@
-/*PORTFOLIO*/
+/*PORTFOLIO start*/
 @media screen and (min-width: 701px) and (max-width:956px) {
 	.portfolio-foto-item:nth-child(3n) {
 		margin-right: 35px;
@@ -26,10 +26,9 @@
 @media screen and (max-width:340px) {
 	.portfolio-foto-item {
 		width: 90%;
-
 	}
 }
-/*PORTFOLIO*/
+/*PORTFOLIO end*/
 @media screen and (min-width: 480px) and (max-width:768px){
 
 	.header{
