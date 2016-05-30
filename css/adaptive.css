@@ -15,6 +15,7 @@
 	.proin:nth-last-child(1) {
 	margin-right: 56px;
 	margin-left: 56px;
+	margin-bottom: 0;
 	}
 	.proin:nth-last-child(2) {
 	margin-right: 56px;
@@ -28,6 +29,7 @@
 	.proin:nth-last-child(1) {
 	margin-right: 0;
 	margin-left: 0;
+	margin-bottom: 0;
 	}
 	.proin:nth-last-child(2) {
 	margin-right: 0;
