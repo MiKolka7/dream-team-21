@@ -29,6 +29,32 @@
 	}
 }
 /*PORTFOLIO end*/
+
+/*CONTACT start*/
+@media screen and (min-width: 240px) and (max-width:480px){
+	.right {
+		float: left;
+		width: 100%;
+	}
+	.left {
+		width: 100%;
+	}
+}
+/*CONTACT end*/
+
+/*TEAM start*/
+@media screen and (min-width: 240px) and (max-width:320px){
+	.team-item-block {
+		margin: 0;
+	}
+	.circle-team {
+		width: 200px;
+		height: 200px;
+		margin: 0 auto;
+	}
+}
+/*TEAM end*/
+
 @media screen and (min-width: 480px) and (max-width:768px){
 
 	.header{
@@ -110,7 +136,7 @@
 		font-size: 24px;
 	}
 
-	.header .button{
+	.button{
 		width: 180px;
 		height: 50px;
 		font-size: 14px;
@@ -170,7 +196,7 @@
 		font-size: 22px;
 	}
 
-	.header .button{
+	.button{
 		width: 140px;
 		height: 40px;
 		font-size: 12px;

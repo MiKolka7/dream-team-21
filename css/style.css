@@ -277,17 +277,6 @@ h1.title-main{
 	margin: 0 auto;
 	padding-bottom: 117px;
 }
-.icons {
-	width: 40px;
-	height: 40px;
-	background-color: #f9f9f9;
-	border: 3px solid #222;
-	display: inline-block;
-	border-radius: 50%;
-	margin: 14px 5px 51px;
-	line-height: 34px;
-	box-sizing: border-box;
-}
 .twitter {
 	background-image: url("../pic/twitter.png");
 }
@@ -350,7 +339,6 @@ h1.title-main{
 	background-image: url("../pic/map-image.png");
 	background-repeat: no-repeat;
 	background-position: right bottom -90px;
-	width: 100%;
 	text-align: center;
 	padding-top: 105px;
 	padding-bottom: 115px;
@@ -358,10 +346,6 @@ h1.title-main{
 }
 h2.title-all-white  {
 	color: white;
-}
-.forma {
-	width: 940px;
-	margin: 0 auto;
 }
 .forma-left {
 	width: 100%;
