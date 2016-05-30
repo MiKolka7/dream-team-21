@@ -63,44 +63,24 @@ h1.title-main{
 	width: 100%;
 }
 .services {
-	width: 100%;
 	text-align: center;
+	padding-top: 100px;
 	padding-bottom: 118px;
 }
-.services .title-all {
-	padding: 105px 0px 0px 0px;
-}
 .proin {
-	width: 100%;
-	/*height: 305px;*/
-	margin: 0 auto;
-}
-.proin1 {
-	float: left;
 	width: 274px;
-	margin-right: 50px;
+	display: inline-block;
+	margin-right: 56px;
 }
-.proin2 {
-	float: left;
-	width: 274px;
-	margin-right: 50px;
-}
-.proin3 {
-	float: left;
-	width: 274px;
+.proin:nth-last-child(1) {
+	margin-right: 0;
 }
 .center {
 	width: 934px;
 	margin: 0 auto;
 	/*padding: 77px 0px 0px 0px;*/
 }
-.proin1 h3 {
-	padding: 26px 0px 18px 0px;
-}
-.proin2 h3 {
-	padding: 26px 0px 18px 0px;
-}
-.proin3 h3 {
+.proin h3 {
 	padding: 26px 0px 18px 0px;
 }
 .portfolio {

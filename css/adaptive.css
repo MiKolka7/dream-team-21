@@ -1,3 +1,44 @@
+/*SERVICES start*/
+@media screen and (min-width: 689px) and (max-width: 950px) {
+	.proin:nth-last-child(1) {
+	margin-right: 56px;
+	margin-left: 56px;
+	}
+	.proin:nth-last-child(2) {
+	margin-right: 0px;
+	}
+	.proin {
+		margin-bottom: 30px;
+	}
+}
+@media screen and (min-width: 431px) and (max-width: 689px) {
+	.proin:nth-last-child(1) {
+	margin-right: 56px;
+	margin-left: 56px;
+	}
+	.proin:nth-last-child(2) {
+	margin-right: 56px;
+	}
+	.proin {
+		margin-bottom: 30px;
+		margin-left: 56px;
+	}
+}
+@media screen and (min-width: 240px) and (max-width: 430px) {
+	.proin:nth-last-child(1) {
+	margin-right: 0;
+	margin-left: 0;
+	}
+	.proin:nth-last-child(2) {
+	margin-right: 0;
+	}
+	.proin {
+		margin-bottom: 30px;
+		margin-left: 0;
+		margin-right: 0;
+		width: 80%;
+	}
+}
 /*PORTFOLIO start*/
 @media screen and (min-width: 701px) and (max-width:956px) {
 	.portfolio-foto-item:nth-child(3n) {
@@ -26,6 +67,9 @@
 @media screen and (max-width:340px) {
 	.portfolio-foto-item {
 		width: 90%;
+	}
+	.portfolio .title-all {
+	    font-size: 33px;
 	}
 }
 /*PORTFOLIO end*/
