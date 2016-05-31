@@ -1,3 +1,18 @@
+@media screen and (max-width: 480px){
+	.header .menu{
+		display: block;
+		width: 48px;
+		height: 48px;
+		background-image: url('../pic/burger.png');
+		background-repeat: no-repeat;
+		cursor: pointer;
+	}
+
+	.header .menu a{
+		display:none;
+	}
+}
+
 @media screen and (max-width: 950px) {
 	
  .wrap{
@@ -125,19 +140,6 @@
 
 	.header-title{
 		margin-top: 55px;
-	}
-	
-	.header .menu{
-		display: block;
-		width: 48px;
-		height: 48px;
-		background-image: url('../pic/burger.png');
-		background-repeat: no-repeat;
-		cursor: pointer;
-	}
-
-	.header .menu a{
-		display:none;
 	}
 
 	.header .title-main{
